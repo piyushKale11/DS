@@ -1,0 +1,78 @@
+Server ->
+
+PS C:\Users\Project Lab\Desktop\DS_Lab\Assignment4> javac *.java
+PS C:\Users\Project Lab\Desktop\DS_Lab\Assignment4> java Server
+/127.0.0.1:63515 connected.
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+/127.0.0.1:63515 updated offset: 0s
+
+----------------------------------------------------------------------------
+
+Client ->
+
+PS C:\Users\Project Lab\Desktop\DS_Lab\Assignment4> java Client
+Sent: 2025-04-26T14:55:15.054
+Synchronized time: 2025-04-26T14:55:17.344
+Sent: 2025-04-26T14:55:20.059
+Synchronized time: 2025-04-26T14:55:22.339
+Sent: 2025-04-26T14:55:25.062
+Synchronized time: 2025-04-26T14:55:27.349
+Sent: 2025-04-26T14:55:30.070
+Synchronized time: 2025-04-26T14:55:32.354
+Sent: 2025-04-26T14:55:35.076
+Synchronized time: 2025-04-26T14:55:37.368
+Sent: 2025-04-26T14:55:40.086
+Synchronized time: 2025-04-26T14:55:42.371
+Sent: 2025-04-26T14:55:45.102
+Synchronized time: 2025-04-26T14:55:47.379
+Sent: 2025-04-26T14:55:50.118
+Synchronized time: 2025-04-26T14:55:52.391
+Sent: 2025-04-26T14:55:55.133
+Synchronized time: 2025-04-26T14:55:57.395
+Sent: 2025-04-26T14:56:00.146
+Synchronized time: 2025-04-26T14:56:02.396
+Sent: 2025-04-26T14:56:05.161
+Synchronized time: 2025-04-26T14:56:07.413
+Sent: 2025-04-26T14:56:10.170
+Synchronized time: 2025-04-26T14:56:12.427
+Sent: 2025-04-26T14:56:15.173
+Synchronized time: 2025-04-26T14:56:17.44
+Sent: 2025-04-26T14:56:20.181
+Synchronized time: 2025-04-26T14:56:22.444
+Sent: 2025-04-26T14:56:25.191
+Synchronized time: 2025-04-26T14:56:27.456
+Sent: 2025-04-26T14:56:30.195
+Synchronized time: 2025-04-26T14:56:32.472
+Sent: 2025-04-26T14:56:35.195
+Synchronized time: 2025-04-26T14:56:37.485
+Sent: 2025-04-26T14:56:40.196
+Synchronized time: 2025-04-26T14:56:42.489
+Sent: 2025-04-26T14:56:45.211
+Synchronized time: 2025-04-26T14:56:47.496
+Sent: 2025-04-26T14:56:50.229
+Synchronized time: 2025-04-26T14:56:52.497
+Sent: 2025-04-26T14:56:55.231
+Synchronized time: 2025-04-26T14:56:57.511
+Sent: 2025-04-26T14:57:00.240
+Synchronized time: 2025-04-26T14:57:02.525
+Sent: 2025-04-26T14:57:05.242
+Synchronized time: 2025-04-26T14:57:07.533
+Sent: 2025-04-26T14:57:10.258
+Synchronized time: 2025-04-26T14:57:12.544
+Sent: 2025-04-26T14:57:15.262
+Synchronized time: 2025-04-26T14:57:17.559
+Sent: 2025-04-26T14:57:20.273
+Synchronized time: 2025-04-26T14:57:22.559
+Sent: 2025-04-26T14:57:25.284
+Synchronized time: 2025-04-26T14:57:27.575
+Sent: 2025-04-26T14:57:30.296
+Synchronized time: 2025-04-26T14:57:32.579
+Sent: 2025-04-26T14:57:35.313
